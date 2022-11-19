@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6374e6f8749bdb6d2a0d3387"
+  },
+  "name": "Peter John",
+  "id": 12
+},{
+  "_id": {
+    "$oid": "6376dc6e7f2c7e73736dbe0d"
+  },
+  "Firstname": "Mary Grace ",
+  "Lastname": "Elias",
+  "Username": "Grasya",
+  "Birthdate": "January 17, 2001",
+  "Password": "12345678",
+  "CPassword": "12345678"
+},{
+  "_id": {
+    "$oid": "6376dd073c66c6055f34716b"
+  },
+  "name": "Peter John",
+  "id": 12
+}]
